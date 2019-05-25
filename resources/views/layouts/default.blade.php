@@ -764,7 +764,7 @@
               </div>
           @endif
 	
-        <a target="_blank" href="#" rel="noopener">Musang IT Asset</a> made with <i class="fas fa-skull" style="color: #a94442; font-size: 10px"></i> by <a href="https://twitter.com/peluitkencang" rel="noopener">@peluitkencang</a>.
+        <a target="_blank" href="#" rel="noopener">Musang IT Assets</a> made with <i class="fas fa-skull" style="color: #a94442; font-size: 10px"></i> by <a href="https://twitter.com/peluitkencang" rel="noopener">@peluitkencang</a>.
       </footer>
 
 
