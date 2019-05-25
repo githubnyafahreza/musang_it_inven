@@ -126,7 +126,7 @@
     'location'              => 'Location',
     'locations'				=> 'Locations',
     'logout'				=> 'Logout',
-    'lookup_by_tag'     => 'Lookup by Asset Tag',
+    'lookup_by_tag'     => 'Mau Cari Apa Hayo?',
     'maintenances'          => 'Maintenances',
     'manufacturer'			=> 'Manufacturer',
     'manufacturers'			=> 'Manufacturers',
